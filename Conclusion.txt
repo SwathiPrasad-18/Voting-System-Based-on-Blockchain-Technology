@@ -1,0 +1,1 @@
+a fully digital, blockchain-based voting system that enhances security, transparency, and reliability. Through ID verification, smart contracts, encryption, and blockchain decentralization, this futuristic voting system prevents fraud and ensures every vote counts.
